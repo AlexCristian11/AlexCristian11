@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: [Space App](https://github.com/AlexCristian11/Space_Web_App) <br>🌱 I’m currently learning: Full Stack Development, React, TypeScript<br>💬 Ask me about: React, JavaScript<br>⚡ Fun fact: Passion for astrophysics
+🔭 I’m currently working on: **[Space App](https://github.com/AlexCristian11/Space_Web_App)** <br>🌱 I’m currently learning: **Full Stack Development, React, TypeScript**<br>💬 Ask me about: **React, JavaScript**<br>⚡ Fun fact: **Passion for astrophysics**
 
 
 ## 🌐 Socials:
